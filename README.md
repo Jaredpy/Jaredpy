@@ -2,7 +2,8 @@
 - 👀 I’m interested in learning python 3
 - 🌱 I’m currently learning python 3
 - 💞️ I’m looking to collaborate on python 3
-- 📫 How to reach me python 3 jk
+- 📫 How to reach message me on facebook @jared webster
+- 
 
 <!---
 Jaredpy/Jaredpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
