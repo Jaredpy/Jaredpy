@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning python 3
 - 🌱 I’m currently learning python 3
 - 💞️ I’m looking to collaborate on python 3
-- 📫 How to reach message me on facebook @jared webster
+- 📫 How to reach me by commenting on a subject
 - 
 
 <!---
